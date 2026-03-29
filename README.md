@@ -1,4 +1,4 @@
-> # Middlewares have been removed as of [PineconeRouter v4](https://github.com/rehhouari/pinecone-router)
+> # Middlewares had been removed as of [PineconeRouter v4](https://github.com/rehhouari/pinecone-router)
 
 # Pinecone Router Middleware Template
 
