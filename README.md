@@ -1,3 +1,5 @@
+> # Middlewares have been removed as of [PineconeRouter v4](https://github.com/rehhouari/pinecone-router)
+
 # Pinecone Router Middleware Template
 
 [![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/{repository}?color=%2337C8AB&label=version&sort=semver)](https://github.com/{repository}/tree/0.0.0)
